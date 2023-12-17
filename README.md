@@ -1,4 +1,4 @@
-# Next Email Automator
+# Email Automator
 
 Automate email responses using Node.js, Nodemailer, and IMAP.
 
